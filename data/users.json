@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@budapest.hu",
+        "password": "$2b$12$KGvXbFnZ1a1VNCwNyULPs.S6KEy0AIAUQGXMuqqhAfF.U3hHVhtn.",
+        "is_admin": true
+    },
+    {
+        "id": 2,
+        "username": "testuser",
+        "email": "test@example.com",
+        "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi",
+        "is_admin": false
+    }
+]

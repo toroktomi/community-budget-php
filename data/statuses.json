@@ -1,0 +1,6 @@
+[
+    {"id": 1, "text": "pending"},
+    {"id": 2, "text": "approved"},
+    {"id": 3, "text": "rejected"},
+    {"id": 4, "text": "rework"}
+]

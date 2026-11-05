@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "status": 2,
+        "title": "Kerékpárút bővítése a Margit-híd környékén",
+        "description": "A projekt célja egy biztonságos kerékpárút kialakítása a Margit-híd budai oldalán, amely összeköti a meglévő kerékpárutakat és biztonságosabbá teszi a kerékpárosok közlekedését. A tervek szerint 2 km hosszú szakasz épülne meg, forgalomcsillapított övezetek kialakításával.",
+        "category": 1,
+        "postal_code": "1027",
+        "image": "https:\/\/images.unsplash.com\/photo-1571068316344-75bc76f77890?w=800",
+        "owner": 2,
+        "submitted": "2025-11-15 10:30:00",
+        "approved": "2025-12-01 14:20:00"
+    },
+    {
+        "id": 2,
+        "status": 2,
+        "title": "Közösségi kert kialakítása a XIII. kerületben",
+        "description": "Egy elhanyagolt terület átalakítása közösségi kerti létesítménnyé, ahol a helyiek közösen termeszthetnek zöldségeket és virágokat. A projekt tartalmaz öntözőrendszert, kerti eszközöket, padokat és egy közösségi pavilont is. Évente több közösségi programot szerveznénk, bevonva az iskolásokat is.",
+        "category": 4,
+        "postal_code": "1139",
+        "image": "https:\/\/images.unsplash.com\/photo-1464226184884-fa280b87c399?w=800",
+        "owner": 2,
+        "submitted": "2025-11-20 09:15:00",
+        "approved": "2025-12-03 11:45:00"
+    },
+    {
+        "id": 3,
+        "status": 2,
+        "title": "Sportpálya felújítása és modernizálása",
+        "description": "A Kerepesi úti sportpálya teljes körű felújítása, beleértve a futópálya újraaszfaltozását, új kosárlabda palánkok felszerelését, és LED világítás telepítését az esti edzésekhez. A pályát mindenki számára nyitottá tennénk, különös tekintettel a helyi diákokra és sportegyesületekre.",
+        "category": 2,
+        "postal_code": "1087",
+        "image": "",
+        "owner": 1,
+        "submitted": "2025-11-22 16:00:00",
+        "approved": "2025-12-05 09:30:00"
+    },
+    {
+        "id": 4,
+        "status": 1,
+        "title": "Napelemes padok telepítése a Városligetben",
+        "description": "Okos padok elhelyezése a Városligetben, amelyek napelemes USB töltőpontokkal és WiFi hotspottal vannak felszerelve. A padok újrahasznosított anyagokból készülnének, és hozzájárulnának a park modernizálásához.",
+        "category": 4,
+        "postal_code": "1146",
+        "image": "",
+        "owner": 2,
+        "submitted": "2025-12-08 14:20:00",
+        "approved": null
+    },
+    {
+        "id": 5,
+        "status": 2,
+        "title": "Ingyenes programozás tanfolyam hátrányos helyzetű fiataloknak",
+        "description": "Hároméves oktatási program indítása, amely során hátrányos helyzetű fiatalok ingyenes programozás és informatikai képzésben részesülhetnek. A program célja a digitális írástudás fejlesztése és a munkaerőpiaci esélyek növelése. Évente 100 diákot vonunk be, biztosítva számítógépeket és oktatókat is.",
+        "category": 3,
+        "postal_code": "1082",
+        "image": "https:\/\/images.unsplash.com\/photo-1517694712202-14dd9538aa97?w=800",
+        "owner": 1,
+        "submitted": "2025-11-18 11:00:00",
+        "approved": "2025-12-02 16:15:00"
+    },
+    {
+        "id": 6,
+        "status": 2,
+        "title": "Test Projekt Test Projekt",
+        "description": "ProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProjectProject",
+        "category": 1,
+        "postal_code": "1111",
+        "image": "",
+        "owner": 1,
+        "submitted": "2026-01-10 10:45:25",
+        "approved": "2026-01-10 10:45:35",
+        "history": [
+            {
+                "timestamp": "2026-01-10 10:45:25",
+                "action": "submit",
+                "user": "admin"
+            },
+            {
+                "timestamp": "2026-01-10 10:45:35",
+                "action": "approved",
+                "admin": "admin",
+                "old_status": 1,
+                "new_status": 2
+            }
+        ]
+    }
+]

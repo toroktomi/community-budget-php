@@ -2,7 +2,7 @@
     {
         "id": 1,
         "username": "admin",
-        "email": "admin@budapest.hu",
+        "email": "admin@example.com",
         "password": "$2b$12$KGvXbFnZ1a1VNCwNyULPs.S6KEy0AIAUQGXMuqqhAfF.U3hHVhtn.",
         "is_admin": true
     },
